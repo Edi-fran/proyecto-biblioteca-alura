@@ -57,7 +57,7 @@ Este proyecto es una aplicación desarrollada en **Java** con **Spring Boot** qu
 ## Enlaces importantes
 
 - **Video para comprobar la funcionalidad**: [Ver video](https://drive.google.com/file/d/1gQ-U5iCb0wySNIUSPdLxUc_1wnm3togO/view?usp=sharing)
-- **Base de datos**: [Descargar base de datos](https://drive.google.com/file/d/1xDgyTrE0gfy4veAfkSfl-B3-l562-w5z/view?usp=sharing)
+- **Base de datos postgres**: [Descargar base de datos](https://drive.google.com/file/d/1xDgyTrE0gfy4veAfkSfl-B3-l562-w5z/view?usp=sharing)
 - **Demostración de la funcionalidad**: [Ver funcionalidad](https://drive.google.com/file/d/12RRlgNtSabKfUl7ewatYiNQYr6cn-mhu/view?usp=sharing)
 
 ## Cómo contribuir
